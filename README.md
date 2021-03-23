@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-###- 🔭 I’m currently working on Android development
+- 🔭 I’m currently working on Android development
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kavita121/)
