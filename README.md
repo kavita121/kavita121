@@ -9,7 +9,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kavita121/) | [Email](mailto:kavita12180@gmail.com)
 
 
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kavita121&langs_count=5)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kavita121&count_private=true&showicons=true)]()
 
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kavita121&langs_count=5)]()
